@@ -1,0 +1,27 @@
+.España {
+    list-style-type: lower-alpha;
+}
+
+.EEUU {
+    list-style-type: upper-roman;
+}
+
+.indice {
+    text-align: left;
+    padding-top: 0%;
+    padding-left: 0%;
+    
+  }
+.contenido {
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 20px;
+}
+
+.li {
+    list-style-type: disc;
+}
+
+.tecnologia_de_internet, .tamaño, .uso_actual, .impacto_social {
+    list-style-type: decimal-leading-zero;
+}
